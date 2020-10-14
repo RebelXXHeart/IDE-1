@@ -1,3 +1,9 @@
+/*
+Stephen Morrow
+CSC 201
+IDE 1
+*/
+
 package com.company;
 
 import java.util.Scanner;
